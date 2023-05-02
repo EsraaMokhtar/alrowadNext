@@ -1,0 +1,107 @@
+/* works section style */
+.layout{
+    min-height: 100vh;
+    background-image: url(../public/assets/bg-all.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.inner{
+    height: 88% !important;
+    padding-top: 50px;
+}
+
+.inner h2{
+    color: #FFFFFF !important;
+}
+.inner>div{
+    width: 80% !important;
+    margin: 0 auto;
+}
+
+/* start first slider */
+
+.shadowEffect {
+    background: #fff;
+    text-align: center !important;
+    border: 1px solid #ECECEC;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+    padding: 40px;
+  }
+
+.shadowEffect .img {
+    width: 73px !important;
+    height: 73px !important;
+    display: inline-block !important;
+}
+
+.shadowEffect h5{
+    color:  #435aff !important;
+}
+
+.overlay{
+    border-radius: 5px;
+    height: 76px !important;
+    width: 76px !important;
+    background-color: rgba(0, 0, 0, 1);
+    text-align: center;
+    padding: 20px;
+    color: #fff;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    display: none;
+    transition: all 0.5s ease-in-out;
+}
+
+
+.innerDiv:hover .overlay{
+    display: block
+} 
+
+/* end first slider */
+
+  .aboutsTestimonoals .items{
+    text-align: center;
+    padding: 0px;
+    margin-bottom: 30px;
+    transform: scale3d(0.8, 0.8, 1);
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .aboutsTestimonoals .items p,
+  .aboutsTestimonoals .items img,
+  .aboutsTestimonoals .items h5
+  {
+    opacity: 0.4;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  @media only screen and (min-width: 600px) {
+    .aboutsTestimonoals .items {
+      text-align: center;
+      padding: 0px;
+      margin-right: 10px !important;
+      transform: scale3d(0.8, 0.8, 1);
+      transition: all 0.3s ease-in-out;
+    }
+  
+  }
+
+  .twoTestimonoals .items{
+    text-align: center;
+    padding: 0px;
+    margin-bottom: 30px;
+    transform: scale3d(0.8, 0.8, 1);
+    transition: all 0.3s ease-in-out;
+  }
+
+  
+  .twoTestimonoals .items img
+  {
+    opacity: 0.4;
+    transition: all 250ms ease-out 0s;
+  }
+

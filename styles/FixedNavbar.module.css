@@ -1,0 +1,39 @@
+
+.navLink{
+    color: #FFFFFF  !important;
+    transition: all 0.5s ease-in-out;
+  }
+  
+  .navLink:hover{
+    color:  #435aff !important;
+    transform: scale(1.1 , 1.1);
+  }
+  
+  
+  .langIcon{
+    color: #FFFFFF  !important;
+  }
+  
+  .nav{
+    margin-left: auto;
+  }
+  
+  body[dir='rtl'] .nav{
+    margin-right: auto;
+  }
+  
+  .navLinkOffcanvas{
+    color: #FFFFFF  !important;
+    padding: 20px 0px !important;
+    border-bottom: 1px solid #5d5d5d;
+  }
+  
+  .navLinkOffcanvas:hover{
+    color:  #435aff !important;
+  }
+    
+  .navLink a{
+    border: none !important;
+    outline: none !important;
+  }
+  

@@ -1,0 +1,197 @@
+
+@media only screen and (max-width: 600px) {
+
+ 
+    .layout{
+        min-height: 100vh;
+        background-image: url(../public/assets/bg-all.webp);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+    }
+    
+    .inner{
+        height: 88% !important;
+        padding-top: 80px;
+    }
+    
+    .inner>div{
+        width: 70% !important;
+        margin: 0 auto;
+    }
+    
+    .inner h2{
+        color:  #FFFFFF !important;
+        margin: 30px !important;
+    }
+    
+    .inner h3{
+        color:  #435aff !important;
+    }
+    
+    
+    .item{
+        background: #FFFFFF;
+        padding: 20px !important;
+        border-radius: 16px;
+        height: 600px !important;
+        overflow-y: scroll;
+    }
+    }
+        
+    @media only screen and (min-width: 600px) {
+        
+    .layout{
+        min-height: 100vh;
+        background-image: url(../public/assets/bg-all.webp);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+    }
+    
+    .inner{
+        height: 88% !important;
+        padding-top: 80px;
+    }
+    
+    .inner>div{
+        width: 70% !important;
+        margin: 0 auto;
+    }
+    
+    .inner h2{
+        color:  #FFFFFF !important;
+        margin: 30px !important;
+    }
+    
+    .inner h3{
+        color:  #435aff !important;
+    }
+    
+    
+    .item{
+        background: #FFFFFF;
+        padding: 20px !important;
+        border-radius: 16px;
+        height: 600px !important;
+        overflow-y: scroll;
+    }
+    
+    }
+        
+    @media only screen and (min-width: 775px) {
+       
+    .layout{
+        min-height: 100vh;
+        background-image: url(../public/assets/bg-all.webp);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+    }
+    
+    .inner{
+        height: 88% !important;
+        padding-top: 80px;
+    }
+    
+    .inner>div{
+        width: 70% !important;
+        margin: 0 auto;
+    }
+    
+    .inner h2{
+        color:  #FFFFFF !important;
+        margin: 30px !important;
+    }
+    
+    .inner h3{
+        color:  #435aff !important;
+    }
+    
+    
+    .item{
+        background: #FFFFFF;
+        padding: 20px !important;
+        border-radius: 16px;
+        height: 600px !important;
+        overflow-y: scroll;
+    }
+    
+    }
+        
+    @media only screen and (min-width: 992px) {
+        
+      
+    .layout{
+        min-height: 100vh;
+        background-image: url(../public/assets/bg-all.webp);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+    }
+    
+    .inner{
+        height: 88% !important;
+        padding-top: 80px;
+    }
+    
+    .inner>div{
+        width: 60% !important;
+        margin: 0 auto;
+    }
+    
+    .inner h2{
+        color:  #FFFFFF !important;
+        margin: 30px !important;
+    }
+    
+    .inner h3{
+        color:  #435aff !important;
+    }
+    
+    
+    
+    .item{
+        background: #FFFFFF;
+        padding: 20px !important;
+        border-radius: 16px;
+        height: 600px !important;
+        overflow-y: scroll;
+    }
+            
+    }
+        
+    @media only screen and (min-width: 1400px) {
+    
+        .layout{
+            min-height: 100vh;
+            background-image: url(../public/assets/bg-all.webp);
+            background-size: 100% 100%;
+            background-repeat: no-repeat;
+        }
+        
+        .inner{
+            height: 88% !important;
+            padding-top: 80px;
+        }
+        
+        .inner>div{
+            width: 48% !important;
+            margin: 0 auto;
+        }
+        
+        .inner h2{
+            color:  #FFFFFF !important;
+            margin: 30px !important;
+        }
+        
+        .inner h3{
+            color:  #435aff !important;
+        }
+        
+        
+        
+        .item{
+            background: #FFFFFF;
+            padding: 20px !important;
+            border-radius: 16px;
+            height: 600px !important;
+            overflow-y: scroll;
+        }
+    }

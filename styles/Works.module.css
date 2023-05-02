@@ -1,0 +1,42 @@
+
+.layout{
+    min-height: 100vh;
+    background-image: url(../public/assets/bg-all.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.inner{
+    height: 88% !important;
+    padding-top: 80px;
+}
+
+.inner>div{
+    width: 80% !important;
+    margin: 0 auto;
+}
+
+.inner h2{
+    color:  #FFFFFF !important;
+    margin: 30px !important;
+}
+
+
+.item{
+    background: #FFFFFF;
+    padding: 13px !important;
+    border-radius: 16px;
+}
+
+.item h5{
+    color:  black !important;
+}
+
+.item h4{
+    color:  #435aff !important;
+    margin-bottom: 15px;
+}
+
+.item img{
+    border-radius: 16px;
+}

@@ -1,0 +1,292 @@
+
+@media only screen and (max-width: 600px) {
+
+    
+    .layout{
+        height: 100vh;
+        background-image: url(../public/assets/bg-home.webp);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+    }
+    
+    .inner{
+        height: 88% !important;
+    }
+    
+    .inner>div{
+        height: 100% !important;
+    }
+    
+    .caption{
+        height: 50% ;
+        width: 75%;
+    }
+    
+    .caption p{
+        font-size: 16px !important;
+    }
+    
+    /* h1 {
+        font-size: 45px !important;
+        font-weight: 800 !important;
+        background: linear-gradient(to right, #0242FF , #FF7009);  
+        letter-spacing: 0.01em;
+        text-transform: capitalize;        
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+    }
+     */
+    
+    .btnMainContact{
+        color: #FFFFFF !important;
+        background-color: transparent !important;
+        border: 1px solid #FFFFFF !important;
+        border-radius: 38px !important;
+        padding: 8px 16px  !important;
+      }
+      
+      .btnMainContact:hover{
+        color: #435aff  !important;
+        background-color: #FFFFFF  !important;
+        border: 1px solid #FFFFFF !important;
+        border-radius: 38px !important;
+        padding: 8px 16px  !important;
+      }
+    
+      
+}
+    
+@media only screen and (min-width: 600px) {
+    
+        
+    .layout{
+        height: 100vh;
+        background-image: url(../public/assets/bg-home.webp);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+    }
+    
+    .inner{
+        height: 88% !important;
+    }
+    
+    .inner>div{
+        height: 100% !important;
+    }
+    
+    .caption{
+        height: 50% ;
+        width: 75%;
+    }
+    
+    .caption p{
+        font-size: 18px !important;
+    }
+    
+    
+    /* h1 {
+        font-size: 50px !important;
+        font-weight: 800 !important;
+        background: linear-gradient(to right, #0242FF , #FF7009);  
+        letter-spacing: 0.01em;
+        text-transform: capitalize;        
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+    }
+     */
+    
+    .btnMainContact{
+        color: #FFFFFF !important;
+        background-color: transparent !important;
+        border: 1px solid #FFFFFF !important;
+        border-radius: 38px !important;
+        padding: 8px 16px  !important;
+      }
+      
+      .btnMainContact:hover{
+        color: #435aff  !important;
+        background-color: #FFFFFF  !important;
+        border: 1px solid #FFFFFF !important;
+        border-radius: 38px !important;
+        padding: 8px 16px  !important;
+      }
+      
+}
+    
+@media only screen and (min-width: 775px) {
+        
+    .layout{
+        height: 100vh;
+        background-image: url(../public/assets/bg-home.webp);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+    }
+    
+    .inner{
+        height: 88% !important;
+    }
+    
+    .inner>div{
+        height: 100% !important;
+    }
+    
+    .caption{
+        height: 50% ;
+        width: 75%;
+    }
+    
+    .caption p{
+        font-size: 24px !important;
+    }
+    
+    
+    /* h1 {
+        font-size: 60px !important;
+        font-weight: 800 !important;
+        background: linear-gradient(to right, #0242FF , #FF7009);  
+        letter-spacing: 0.01em;
+        text-transform: capitalize;        
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+    }
+     */
+    
+    .btnMainContact{
+        color: #FFFFFF !important;
+        background-color: transparent !important;
+        border: 1px solid #FFFFFF !important;
+        border-radius: 38px !important;
+        padding: 8px 16px  !important;
+      }
+      
+      .btnMainContact:hover{
+        color: #435aff  !important;
+        background-color: #FFFFFF  !important;
+        border: 1px solid #FFFFFF !important;
+        border-radius: 38px !important;
+        padding: 8px 16px  !important;
+      }
+      
+        
+}
+    
+    
+@media only screen and (min-width: 992px) {
+        
+    .layout{
+        height: 100vh;
+        background-image: url(../public/assets/bg-home.webp);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+    }
+    
+    .inner{
+        height: 88% !important;
+    }
+    
+    .inner>div{
+        height: 100% !important;
+    }
+    
+    .caption{
+        height: 50% ;
+        width: 75%;
+    }
+    
+    .caption p{
+        font-size: 24px !important;
+    }
+    
+/*     
+    h1 {
+        font-size: 70px !important;
+        font-weight: 800 !important;
+        background: linear-gradient(to right, #0242FF , #FF7009);  
+        letter-spacing: 0.01em;
+        text-transform: capitalize;        
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+    }
+     */
+    
+    .btnMainContact{
+        color: #FFFFFF !important;
+        background-color: transparent !important;
+        border: 1px solid #FFFFFF !important;
+        border-radius: 38px !important;
+        padding: 8px 16px  !important;
+      }
+      
+      .btnMainContact:hover{
+        color: #435aff  !important;
+        background-color: #FFFFFF  !important;
+        border: 1px solid #FFFFFF !important;
+        border-radius: 38px !important;
+        padding: 8px 16px  !important;
+      }
+      
+        
+}
+    
+@media only screen and (min-width: 1400px) {
+        
+    .layout{
+        height: 100vh;
+        background-image: url(../public/assets/bg-home.webp);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+    }
+    
+    .inner{
+        height: 88% !important;
+    }
+    
+    .inner>div{
+        height: 100% !important;
+    }
+    
+    .caption{
+        height: 50% ;
+        width: 75%;
+    }
+    
+    .caption p{
+        font-size: 24px !important;
+    }
+    
+    
+    /* h1 {
+        font-size: 72px !important;
+        font-weight: 900 !important;
+        background: linear-gradient(to right, #0242FF , #FF7009);  
+        letter-spacing: 0.01em;
+        text-transform: capitalize;        
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+    } */
+    
+    .btnMainContact{
+        color: #FFFFFF !important;
+        background-color: transparent !important;
+        border: 1px solid #FFFFFF !important;
+        border-radius: 38px !important;
+        padding: 8px 16px  !important;
+      }
+      
+      .btnMainContact:hover{
+        color: #435aff  !important;
+        background-color: #FFFFFF  !important;
+        border: 1px solid #FFFFFF !important;
+        border-radius: 38px !important;
+        padding: 8px 16px  !important;
+      }
+      
+        
+}
+    
+    

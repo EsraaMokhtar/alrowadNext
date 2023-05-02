@@ -1,0 +1,222 @@
+@media only screen and (max-width: 600px) {
+
+    .layout{
+        height: 1303px;
+        background-image: url(../public/assets/bg-all.webp);
+        background-size: 100% 100%;
+        background-attachment: fixed;
+        background-position: center;
+    }
+    
+    .inner{
+        height: 88% !important;
+        color: #FFFFFF !important;
+        padding-top: 70px;
+    }
+    
+    .inner>div{
+        width: 80% !important;
+        margin: 0 auto;
+    }
+    
+    
+    .img img{
+        border-radius: 12px;
+    }
+    
+    
+    .carouselControlNext,
+    .carouselControlPrev {
+        width: auto !important;
+        bottom: auto !important;
+        background-color:  #435aff  !important;
+        padding:1px !important;
+        border-radius: 50% !important;
+        top: 50% !important;
+    }
+    
+    .carouselInner{
+        width:78% !important ;
+        margin: auto !important;
+    }
+    
+    }
+            
+    @media only screen and (min-width: 600px) {
+            
+         
+    .layout{
+        height: 1330px;
+        background-image: url(../public/assets/bg-all.webp);
+        background-size: 100% 100%;
+        background-attachment: fixed;
+        background-position: center;
+    }
+    
+    .inner{
+        height: 88% !important;
+        color: #FFFFFF !important;
+        padding-top: 60px;
+    }
+    
+    .inner>div{
+        width: 80% !important;
+        margin: 0 auto;
+    }
+    
+    
+    .img img{
+        border-radius: 12px;
+    }
+    
+    
+    .carouselControlNext,
+    .carouselControlPrev {
+        width: auto !important;
+        bottom: auto !important;
+        background-color:  #435aff  !important;
+        padding: 2px !important;
+        border-radius: 50% !important;
+        top: 50% !important;
+    }
+    
+    .carouselInner{
+        width:84% !important ;
+        margin: auto !important;
+    }
+    
+    }
+            
+    @media only screen and (min-width: 775px) {
+      
+    .layout{
+        height: 1460px;
+        background-image: url(../public/assets/bg-all.webp);
+        background-size: 100% 100%;
+        background-attachment: fixed;
+        background-position: center;
+    }
+    
+    .inner{
+        height: 88% !important;
+        color: #FFFFFF !important;
+        padding-top: 70px;
+    }
+    
+    .inner>div{
+        width: 80% !important;
+        margin: 0 auto;
+    }
+    
+    
+    .img img{
+        border-radius: 12px;
+    }
+    
+    
+    .carouselControlNext,
+    .carouselControlPrev {
+        width: auto !important;
+        bottom: auto !important;
+        background-color:  #435aff  !important;
+        padding: 2px !important;
+        border-radius: 50% !important;
+        top: 50% !important;
+    }
+    
+    .carouselInner{
+        width:88% !important ;
+        margin: auto !important;
+    }
+        
+    }
+            
+            
+    @media only screen and (min-width: 992px) {
+       
+    .layout{
+        height: 1460px;
+        background-image: url(../public/assets/bg-all.webp);
+        background-size: 100% 100%;
+        background-attachment: fixed;
+        background-position: center;
+    }
+    
+    .inner{
+        height: 88% !important;
+        color: #FFFFFF !important;
+        padding-top: 80px;
+    }
+    
+    .inner>div{
+        width: 80% !important;
+        margin: 0 auto;
+    }
+    
+    
+    .img img{
+        border-radius: 12px;
+    }
+    
+    
+    .carouselControlNext,
+    .carouselControlPrev {
+        width: auto !important;
+        bottom: auto !important;
+        background-color:  #435aff  !important;
+        padding: 5px !important;
+        border-radius: 50% !important;
+        top: 50% !important;
+    }
+    
+    .carouselInner{
+        width:90% !important ;
+        margin: auto !important;
+    }
+                
+        }
+            
+    @media only screen and (min-width: 1400px) {
+        
+    .layout{
+        height: 1515px;
+        background-image: url(../public/assets/bg-all.webp);
+        background-size: 100% 100%;
+        background-attachment: fixed;
+        background-position: center;
+    
+    }
+    
+    .inner{
+        height: 88% !important;
+        color: #FFFFFF !important;
+        padding-top: 70px;
+    }
+    
+    .inner>div{
+        width: 80% !important;
+        margin: 0 auto;
+    }
+    
+    
+    .img img{
+        border-radius: 12px;
+    }
+    
+    
+    .carouselControlNext,
+    .carouselControlPrev {
+        width: auto !important;
+        bottom: auto !important;
+        background-color:  #435aff  !important;
+        padding: 5px !important;
+        border-radius: 50% !important;
+        top: 50% !important;
+    }
+    
+    .carouselInner{
+        width:90% !important ;
+        margin: auto !important;
+    }
+                
+    } 

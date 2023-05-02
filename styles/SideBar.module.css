@@ -1,0 +1,401 @@
+
+@media only screen and (max-width: 600px) {
+
+    .sideBar{
+        background-color: transparent;
+        position: absolute;
+        top: 230px;
+        bottom: 0;
+        left: 0;
+        z-index: 222;
+        position: fixed;
+    }
+    
+    .sideBar ul{
+         height: 360px;
+    }
+    
+
+    .sideBar li .facebook{
+        padding: 20px;
+        color : #FFFFFF !important;
+        transition: all 0.5s ease-in-out;
+    }
+
+
+    .sideBar li .facebook:hover{
+        color : #1b74e4 !important;
+    }
+
+    .sideBar li .twitter{
+        padding: 20px;
+        color : #FFFFFF !important;
+        transition: all 0.5s ease-in-out;
+    }
+
+
+    .sideBar li .twitter:hover{
+        color : #1d9bf0 !important;
+    }
+
+    .sideBar li .linked{
+        padding: 20px;
+        color : #FFFFFF !important;
+        transition: all 0.5s ease-in-out;
+    }
+
+
+    .sideBar li .linked:hover{
+        color : #0a66c2 !important;
+    }
+
+    .sideBar li .whats{
+        padding: 20px;
+        color : #FFFFFF !important;
+        transition: all 0.5s ease-in-out;
+    }
+
+
+    .sideBar li .whats:hover{
+        color : #25d366 !important;
+    }
+
+    .sideBar li .instgram{
+        padding: 20px;
+        color : #FFFFFF !important;
+        transition: all 0.5s ease-in-out;
+    }
+
+
+    .sideBar li .instgram:hover{
+        color : #e0395d !important;
+    }
+
+}
+    
+@media only screen and (min-width: 600px) {
+    
+    .sideBar{
+        background-color: transparent;
+        position: absolute;
+        top: 230px;
+        bottom: 0;
+        left: 0;
+        z-index: 222;
+        position: fixed;
+    }
+    
+    .sideBar ul{
+         height: 360px;
+    }
+    
+/* 
+body[dir='rtl'] .sideBar{
+    right: unset;
+    left: 0;
+} */
+
+
+.sideBar li .facebook{
+    padding: 20px;
+    color : #FFFFFF !important;
+    transition: all 0.5s ease-in-out;
+}
+
+
+.sideBar li .facebook:hover{
+    color : #1b74e4 !important;
+}
+
+.sideBar li .twitter{
+    padding: 20px;
+    color : #FFFFFF !important;
+    transition: all 0.5s ease-in-out;
+}
+
+
+.sideBar li .twitter:hover{
+    color : #1d9bf0 !important;
+}
+
+.sideBar li .linked{
+    padding: 20px;
+    color : #FFFFFF !important;
+    transition: all 0.5s ease-in-out;
+}
+
+
+.sideBar li .linked:hover{
+    color : #0a66c2 !important;
+}
+
+
+.sideBar li .whats{
+    padding: 20px;
+    color : #FFFFFF !important;
+    transition: all 0.5s ease-in-out;
+}
+
+
+.sideBar li .whats:hover{
+    color : #25d366 !important;
+}
+
+.sideBar li .instgram{
+    padding: 20px;
+    color : #FFFFFF !important;
+    transition: all 0.5s ease-in-out;
+}
+
+
+.sideBar li .instgram:hover{
+    color : #e0395d !important;
+}
+
+}
+    
+@media only screen and (min-width: 775px) {
+   
+    .sideBar{
+        background-color: transparent;
+        position: absolute;
+        top: 230px;
+        bottom: 0;
+        left: 0;
+        padding: 20px;
+        z-index: 222;
+        position: fixed;
+    }
+    
+    .sideBar ul{
+         height: 360px;
+    }
+    
+/* 
+body[dir='rtl'] .sideBar{
+    right: unset;
+    left: 0;
+} */
+
+.sideBar li .facebook{
+    padding: 20px;
+    color : #FFFFFF !important;
+    transition: all 0.5s ease-in-out;
+}
+
+
+.sideBar li .facebook:hover{
+    color : #1b74e4 !important;
+}
+
+.sideBar li .twitter{
+    padding: 20px;
+    color : #FFFFFF !important;
+    transition: all 0.5s ease-in-out;
+}
+
+
+.sideBar li .twitter:hover{
+    color : #1d9bf0 !important;
+}
+
+.sideBar li .linked{
+    padding: 20px;
+    color : #FFFFFF !important;
+    transition: all 0.5s ease-in-out;
+}
+
+
+.sideBar li .linked:hover{
+    color : #0a66c2 !important;
+}
+
+
+.sideBar li .whats{
+    padding: 20px;
+    color : #FFFFFF !important;
+    transition: all 0.5s ease-in-out;
+}
+
+
+.sideBar li .whats:hover{
+    color : #25d366 !important;
+}
+
+.sideBar li .instgram{
+    padding: 20px;
+    color : #FFFFFF !important;
+    transition: all 0.5s ease-in-out;
+}
+
+
+.sideBar li .instgram:hover{
+    color : #e0395d !important;
+}
+
+}
+    
+@media only screen and (min-width: 992px) {
+    
+    .sideBar{
+        background-color: transparent;
+        position: absolute;
+        top: 230px;
+        bottom: 0;
+        left: 0;
+        padding: 20px;
+        z-index: 222;
+        position: fixed;
+    }
+    
+    .sideBar ul{
+         height: 360px;
+    }
+    
+
+/* body[dir='rtl'] .sideBar{
+    right: unset;
+    left: 0;
+} */
+
+
+.sideBar li .facebook{
+    padding: 20px;
+    color : #FFFFFF !important;
+    transition: all 0.5s ease-in-out;
+}
+
+
+.sideBar li .facebook:hover{
+    color : #1b74e4 !important;
+}
+
+.sideBar li .twitter{
+    padding: 20px;
+    color : #FFFFFF !important;
+    transition: all 0.5s ease-in-out;
+}
+
+
+.sideBar li .twitter:hover{
+    color : #1d9bf0 !important;
+}
+
+
+.sideBar li .linked{
+    padding: 20px;
+    color : #FFFFFF !important;
+    transition: all 0.5s ease-in-out;
+}
+
+
+.sideBar li .linked:hover{
+    color : #0a66c2 !important;
+}
+
+
+.sideBar li .whats{
+    padding: 20px;
+    color : #FFFFFF !important;
+    transition: all 0.5s ease-in-out;
+}
+
+
+.sideBar li .whats:hover{
+    color : #25d366 !important;
+}
+
+.sideBar li .instgram{
+    padding: 20px;
+    color : #FFFFFF !important;
+    transition: all 0.5s ease-in-out;
+}
+
+
+.sideBar li .instgram:hover{
+    color : #e0395d !important;
+}
+        
+}
+    
+@media only screen and (min-width: 1400px) {
+    
+.sideBar{
+    background-color: transparent;
+    position: absolute;
+    top: 230px;
+    bottom: 0;
+    left: 0;
+    padding: 20px;
+    z-index: 222;
+    position: fixed;
+}
+
+.sideBar ul{
+    height: 360px;
+}
+
+
+/* body[dir='rtl'] .sideBar{
+    right: unset;
+    left: 0;
+} */
+
+
+.sideBar li .facebook{
+    padding: 20px;
+    color : #FFFFFF !important;
+    transition: all 0.5s ease-in-out;
+}
+
+
+.sideBar li .facebook:hover{
+    color : #1b74e4 !important;
+}
+
+.sideBar li .twitter{
+    padding: 20px;
+    color : #FFFFFF !important;
+    transition: all 0.5s ease-in-out;
+}
+
+
+.sideBar li .twitter:hover{
+    color : #1d9bf0 !important;
+}
+
+.sideBar li .linked{
+    padding: 20px;
+    color : #FFFFFF !important;
+    transition: all 0.5s ease-in-out;
+}
+
+
+.sideBar li .linked:hover{
+    color : #0a66c2 !important;
+}
+
+
+.sideBar li .whats{
+    padding: 20px;
+    color : #FFFFFF !important;
+    transition: all 0.5s ease-in-out;
+}
+
+
+.sideBar li .whats:hover{
+    color : #25d366 !important;
+}
+
+.sideBar li .instgram{
+    padding: 20px;
+    color : #FFFFFF !important;
+    transition: all 0.5s ease-in-out;
+}
+
+
+.sideBar li .instgram:hover{
+    color : #e0395d !important;
+}
+
+}

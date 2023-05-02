@@ -1,0 +1,63 @@
+
+.layout{
+    min-height: 100vh;
+    background-image: url(../public/assets/bg-all.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.inner{
+    height: 88% !important;
+    padding-top: 80px;
+}
+
+.inner>div{
+    width: 80% !important;
+    margin: 0 auto;
+}
+
+.inner h2{
+    color:  #FFFFFF !important;
+    margin: 30px !important;
+}
+
+.item{
+    background-color: #FFFFFF;
+    box-shadow: 0px 22px 42px rgba(184, 184, 184, 0.25);
+    border-radius: 8px;
+}
+
+.img{
+    border-radius: 12px;
+    padding: 10px;
+}
+
+.img img{
+    border-radius: 12px;
+}
+
+.item h5{
+    color: #435aff !important;
+}
+
+.item p{
+    color: #585858 !important;
+}
+
+
+.carouselControlNext,
+.carouselControlPrev {
+    width: auto !important;
+    bottom: auto !important;
+    background-color:  #435aff !important;
+    padding: 5px !important;
+    border-radius: 50% !important;
+    top: 50% !important;
+}
+
+.carouselInner{
+    width:80% !important ;
+    margin: auto !important;
+}
+
+/* end Projects  */
