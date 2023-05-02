@@ -83,6 +83,19 @@ body[dir='rtl']{
 }
 
 
+.swal2-title{
+  color: black !important;
+}
+
+.btn-close{
+  color: #FFFFFF !important;
+  background: transparent url(../public/assets/exit.webp) center/1em auto no-repeat !important;
+}
+
+.navbar-toggler-icon{
+  background-image: url(../public/assets/menu.webp) !important;
+}
+
 
 /* about slider global */
 
